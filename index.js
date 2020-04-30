@@ -1,0 +1,1 @@
+const funcionFlecha = () => "Hola";
